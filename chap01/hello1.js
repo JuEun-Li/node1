@@ -1,0 +1,1 @@
+console.log("hello world"); //log메소드는 자바에서 System.out.println과 같다.
