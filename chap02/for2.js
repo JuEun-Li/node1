@@ -1,4 +1,4 @@
-let s = "Hello world";
+let s = "Hello world!";
 for (let i = 0; i < s.length; ++i) {
     let ch = s[i];
     console.log(ch);
