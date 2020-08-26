@@ -9,4 +9,4 @@ function outterFunc() {
 
 outterFunc();
 
-// 함수 외부에서 지역 함수 선언 불가.
+// 함수 외부에서 지역 함수 선언 불가. 
